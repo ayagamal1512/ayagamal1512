@@ -1,8 +1,8 @@
-### Hi there 👋 
+<h1 align="center">Hi 👋, I'm Aya Gamal</h1>
+<h3 align="center">Data science & Green Energy Enthusiast</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayagamal1512&label=Profile%20views&color=0e75b6&style=flat" alt="ayagamal1512" /> </p>
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Machine Learning Nanodegree `FWD Egypt`
 - 🌱 I’m currently learning how to live up to my potential
