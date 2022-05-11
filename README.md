@@ -2,7 +2,7 @@
 <h3 align="center">Data science & Green Energy Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayagamal1512&label=Profile%20views&color=0e75b6&style=flat" alt="ayagamal1512" />
-		   <img src="https://badges.pufler.dev/repos/ayagamal1512" alt="ayagamal1512" />
+		 
 		   <img src="https://img.shields.io/github/followers/ayagamal1512?label=Followers" alt="ayagamal1512" />
 </p>
 <br>
