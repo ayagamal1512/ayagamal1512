@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**ayagamal1512/ayagamal1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my Machine Learning Nanodegree `FWD Egypt`
+- 🌱 I’m currently learning how to live up to my potential
+- 👯 I’m looking to collaborate on open source projects 
+- 🤔 I’m looking for help with my imposter syndrome 
+- 💬 Ask me about anything related to Art, Music, TV shows, Food, Technology, and Energy
+- 📫 How to reach me: aya96636@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: The problem of being faster than light is that you will always live in darkness 
 -->
