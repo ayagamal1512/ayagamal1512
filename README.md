@@ -5,7 +5,7 @@
 		   <img src="https://img.shields.io/github/followers/ayagamal1512?label=Followers" alt="ayagamal1512" />
 </p>
 <br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 230px/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 220px/>
 
 - 🔭 I’m currently working on my Data Architect Nanodegree `FWD Egypt`
 - 🌱 I’m currently learning how to live up to my potential
