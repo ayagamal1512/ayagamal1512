@@ -7,10 +7,10 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 220px/>
 
-- 🔭 I’m currently working on my `Power_BI` certification from Microsoft
+- 🔭 I’m currently working on my `Power_BI` certification from Microsoft (Got it!)
 - 🌱 I’m currently learning how to live up to my potential
-- 👯 I’m looking to collaborate on `open source` projects 
-- 💬 Ask me about anything related to Art, Music, TV shows, Food, Technology, and Energy
+- 👯 I’m looking forward landing a Data Science role
+- 💬 Ask me about anything related to Art, Music, TV shows, Food and Technology
 - 📫 How to reach me: ayag.mahmoudali.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: **The problem of being faster than light is that you will always be living in darkness** 
