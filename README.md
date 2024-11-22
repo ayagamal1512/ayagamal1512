@@ -5,7 +5,8 @@
 		   <img src="https://img.shields.io/github/followers/ayagamal1512?label=Followers" alt="ayagamal1512" />
 </p>
 <br>
-<iframe align="right" src="https://giphy.com/embed/j8XOFLN4DPXswRPOqS" width="480" height="480" 
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBsM3B2aXhtemJmOXBlaG5rZTluaDN5d3V2dnBnZmJybjMzNjQ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j8XOFLN4DPXswRPOqS/giphy.webp" Width="480" height="480"
+
 
 - 🔭 I’m currently working on my `AWS ML` certification
 - 🌱 I’m currently learning how to live up to my potential
