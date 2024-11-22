@@ -7,11 +7,11 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 220px/>
 
-- 🔭 I’m currently working on my `Power_BI` certification from Microsoft (Got it!)
+- 🔭 I’m currently working on my `AWS ML` certification
 - 🌱 I’m currently learning how to live up to my potential
 - 👯 I’m looking forward landing a Data Science role
 - 💬 Ask me about anything related to Art, Music, TV shows, Food and Technology
-- 📫 How to reach me: ayag.mahmoudali.com
+- 📫 How to reach me: ayag.mahmoudali@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: **The problem of being faster than light is that you will always be living in darkness** 
 
