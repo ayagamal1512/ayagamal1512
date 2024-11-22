@@ -5,7 +5,7 @@
 		   <img src="https://img.shields.io/github/followers/ayagamal1512?label=Followers" alt="ayagamal1512" />
 </p>
 <br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 220px/>
+<iframe align="right" src="https://giphy.com/embed/j8XOFLN4DPXswRPOqS" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/PudgyMemez-science-robot-nerd-j8XOFLN4DPXswRPOqS">via GIPHY</a></p>
 
 - 🔭 I’m currently working on my `AWS ML` certification
 - 🌱 I’m currently learning how to live up to my potential
