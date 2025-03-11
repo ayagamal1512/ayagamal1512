@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Aya Gamal</h1>
-<h3 align="center">Data science & Green Energy Enthusiast</h3>
+<h3 align="center">Data science & AI Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayagamal1512&label=Profile%20views&color=0e75b6&style=flat" alt="ayagamal1512" />		 
 		   <img src="https://img.shields.io/github/followers/ayagamal1512?label=Followers" alt="ayagamal1512" />
@@ -8,7 +8,7 @@
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBsM3B2aXhtemJmOXBlaG5rZTluaDN5d3V2dnBnZmJybjMzNjQ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j8XOFLN4DPXswRPOqS/giphy.webp" Width="480" height="480"
 
 
-- 🔭 I’m currently working on my `AWS ML` certification
+- 🔭 I’m currently working on my Deep Learning Specialization
 - 🌱 I’m currently learning how to live up to my potential
 - 👯 I’m looking forward landing a Data Science role
 - 💬 Ask me about anything related to Art, Music, TV shows, Food and Technology
